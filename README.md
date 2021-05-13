@@ -10,7 +10,7 @@ In this problem we need to return the index of the specified target.
 If interested in my comments and approach, I invite yout to read
 the post at the following link in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/05/13/search-in-rotated-sorted-array/
 
 Keep in mind that the best way to learn is to read and experiment.
 
